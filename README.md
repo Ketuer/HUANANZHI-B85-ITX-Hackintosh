@@ -17,6 +17,7 @@
 * 声音：测试OK，支持前面板+后面板
 * 网络：Intel AX210 WIFI6E + 有线双口
 * USB：2xUSB3.0、4xUSB2.0
+* 蓝牙：Monterey下暂时还有问题，等驱动更新，BigSur没问题
 
 ## 系统环境
 
